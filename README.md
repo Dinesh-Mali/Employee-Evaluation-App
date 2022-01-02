@@ -11,3 +11,13 @@ difficult to compate and decide.
 
 # What is AutoML?
 Automated Machine Learning (AutoML) is the process of automating the tasks of applying machine learning to real-world problems.
+
+# Project Flow
+
+1) Data Analysis - Finding out Different relations.
+
+2) Feature Engineering - Processing the data before it feeding to the model.
+
+3) Model Building using ML - Using ML/Dl Algorithms.
+
+4) Model Building using Auto ML.
